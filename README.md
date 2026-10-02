@@ -3,6 +3,7 @@
 LingualSense identifies the language of a piece of text using a deep learning model trained from scratch. A character-level GRU network recognizes **28 languages** and is served through a simple Streamlit web app.
 
 ---
+**Live Demo** : https://lingualsense-uplhpbbwzalya5sxbtgzo4.streamlit.app/
 
 ## Features
 
